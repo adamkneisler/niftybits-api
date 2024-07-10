@@ -1,0 +1,10 @@
+Django==3.2.2
+django-cors-headers
+django-extensions
+djangorestframework==3.12.4
+django-simple-history
+social-auth-app-django==5.0.0
+gunicorn==20.1.0
+whitenoise==5.2.0
+postmark==1.0.0
+psycopg2==2.8.6
